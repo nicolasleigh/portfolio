@@ -6,8 +6,15 @@
     <description>Recent content on Brians Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Dec 2024 20:04:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 21:59:13 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 13 Dec 2024 21:59:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Open Source Software</title>
       <link>http://localhost:1313/opensource/</link>
