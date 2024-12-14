@@ -8,3 +8,25 @@ theme = 'basic'
   description = "My portfolio site"
   gh_url = "https://api.github.com/users" 
   gh_user = "nicolasleigh"
+
+[permalinks] 
+  posts = "posts/:year/:month/:slug/"
+  year = "/posts/:slug/" 
+  month = "/posts/:slug/"
+
+[taxonomies] 
+  year = "year" 
+  month = "month" 
+  tag = "tags" 
+  category = "categories"
+
+[related] 
+  threshold = 80.0 
+  includeNewer = false 
+  toLower = false 
+  [[related.indices]] 
+    name = "keywords" 
+    weight = 100.0 
+  [[related.indices]] 
+    name = "date" 
+    weight = 10.0

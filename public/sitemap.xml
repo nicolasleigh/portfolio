@@ -3,9 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-13T21:59:13+08:00</lastmod>
+    <lastmod>2024-12-14T13:46:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://localhost:1313/search/</loc>
+    <lastmod>2024-12-14T13:46:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/12/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/month/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/12/third-post/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/thoughts/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/year/</loc>
+    <lastmod>2024-12-14T11:27:02+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/12/second-post/</loc>
+    <lastmod>2024-12-14T10:58:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/12/first-post/</loc>
     <lastmod>2024-12-13T21:59:13+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/opensource/</loc>
@@ -20,30 +56,28 @@
     <loc>http://localhost:1313/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
+    <loc>http://localhost:1313/posts/2023/03/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
+    <loc>http://localhost:1313/posts/2023/02/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>http://localhost:1313/posts/2023/01/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-01-01T15:17:39-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2020-01-01T12:55:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/awesomeco/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/jabberwocky/</loc>
   </url><url>
